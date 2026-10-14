@@ -14,4 +14,4 @@ to CNCF projects (Prometheus, OpenTelemetry).
 Linux · Git · Docker · Go (learning) · AWS (learning) · Terraform (learning)
 
 ## 📫 Reach me
-[LinkedIn](YOUR-LINKEDIN-URL)
+[LinkedIn](YOUR-LINKEDIN-URL) 
