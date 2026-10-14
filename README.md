@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hi, I'm Hajera 👋
 
-<!--
-**hajera-nishat/hajera-nishat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+DevOps & cloud engineer in training, building **AWS + Terraform + Kubernetes**
+delivery pipelines with built-in observability. Learning **Go** to contribute
+to CNCF projects (Prometheus, OpenTelemetry).
 
-Here are some ideas to get you started:
+## 🔭 Currently
+- Building: Terraform + GitHub Actions on AWS (in progress)
+- Learning: Go, Kubernetes, Prometheus & Grafana
+- Working toward: Terraform Associate (Dec 2026), CKA (2027), GSoC 2027
+- Logging my progress in [devops-journey](https://github.com/hajera-nishat/devops-journey)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tools
+Linux · Git · Docker · Go (learning) · AWS (learning) · Terraform (learning)
+
+## 📫 Reach me
+[LinkedIn](YOUR-LINKEDIN-URL)
